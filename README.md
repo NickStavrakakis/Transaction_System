@@ -7,4 +7,4 @@ The graph provides a mechanism that can help tracking the transactions, reading 
 
 ### Supervisors
 
-* Professor Alex Delis Ioannidis <ad@di.uoa.gr>, University of Athens
+* Professor Alex Delis <ad@di.uoa.gr>, University of Athens
